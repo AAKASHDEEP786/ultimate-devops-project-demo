@@ -1,7 +1,7 @@
 ---
 # Source: opentelemetry-demo/templates/component.yaml
 apiVersion: apps/v1
-kind: Deployment
+kind: Deployment 
 metadata:
   name: opentelemetry-demo-productcatalogservice
   labels:
